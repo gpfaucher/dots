@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/gabriel/Documents/notes/02_OOP/Blok_1/Le01'
+let g:netrw_dirhist_2='/home/gabriel/Documents/exercises'
+let g:netrw_dirhist_3='/home/gabriel/Documents/exercises/Open_University'
